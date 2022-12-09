@@ -8,11 +8,11 @@ In addition to these technical skills, data scientists also need to have strong 
 
 
 - 📫 How to reach me: <br />
-<div id="badges">
-  <a href="https://www.linkedin.com/in/igornowacki/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/igornowacki/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 
 - ⚡ Please check  my projects:<br />
 
