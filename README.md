@@ -14,6 +14,7 @@ I have a strong foundation in statistics and probability, and I am experienced i
 
 - ⚡ Please check  my projects:<br />
 
+  - [WebScraping LaLiga Results](https://github.com/IgorNowacki/WebScraping-LaLiga-Results) - This project is a web scraper that collects data on the La Liga league in Spain for the years 2022 to 2019, with requests and beautifulSoup libraries.
   - [Flower Classification model/Transfer learning VGG16/ResNet/MobileNet](https://github.com/IgorNowacki/Transfer-learning-VGG16-ResNet-MobileNet-) - I utilized transfer learning to build a convolutional neural network for classifying flowers photos. The pre-trained models that will be used for this purpose are VGG16, ResNet, and MobileNet.
   - [Chest X Ray Images Classification/Pneumonia detection CNN](https://github.com/IgorNowacki/Chest-X-Ray-Images-classification---Pneumonia-detection-CNN-) -  Convolutional Neural Network to predict if X ray image shows healthy lungs or lungs with Pneumonia.
   - [Car Price Prediction](https://github.com/IgorNowacki/car-price-prediction) - Linear Regression, Laso Regression model, Ridge Regression model, Random Forest to predict the value of used cars.
