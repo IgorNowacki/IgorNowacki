@@ -1,6 +1,6 @@
 ### Hi there 👋<br />
 About me:<br />
-I am a graduated aviation engineer with three years of commercial experience in the airline industry, where I worked with the Boeing 787. I am now seeking challenges and opportunities in the IT field. I am currently pursuing a master's degree in computer science and data science, and working on my thesis project, which involves using machine learning algorithms to make predictions and automate decision-making based on data.<br />
+I am a graduated aviation engineer with three years of commercial experience in the airline industry, where I worked with the Boeing 787. I am currently pursuing a master's degree in computer science and data science, and working on my thesis project, which involves using machine learning algorithms to make predictions and automate decision-making based on data.<br />
 
 I have a strong foundation in statistics and probability, and I am experienced in using data analysis and machine learning techniques. My experience in the airline industry has also honed my communication, negotiation, and problem-solving skills, and I am confident in my ability to think critically and creatively to find solutions. I am eager to apply my skills and knowledge in a data science role, and I am open to learning new technologies and techniques to advance my career.
 
